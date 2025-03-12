@@ -15,6 +15,8 @@ public class Principal {
 		System.out.println("Estamos haciendo control de versiones de Git en desarollo de entorno");
 		System.out.println("Estamos haciendo control de versiones de Git en desarollo de entorno");
 		System.out.println("Estamos haciendo control de versiones de Git en desarollo de entorno");
+		System.out.println("Estamos haciendo control de versiones de Git en desarollo de entorno");
+		System.out.println("Estamos haciendo control de versiones de Git en desarollo de entorno");
 
 	}
 
